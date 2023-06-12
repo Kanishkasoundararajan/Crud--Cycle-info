@@ -1,0 +1,65 @@
+.apple
+{
+  width:500px;
+  height: 750px;
+  top: -10px;
+  position: fixed;
+
+}
+.apple1{
+  color: black;
+  margin-left: 550px;
+}
+.apple2{
+  color: black;
+  margin-left: 550px;
+  margin-right: 50px;
+}
+.apple3{
+  color: black;
+  margin-left: 550px;
+}
+.apple4{
+  color: black;
+  margin-left: 550px;
+  
+}
+.apple5{
+  color: black;
+  position: absolute;
+  margin-left: 580px;
+  margin-bottom: 5px;
+  bottom: 50px;
+  left:70px;
+}
+.apple6{
+  color: black;
+  margin-left: 550px;
+
+}
+.apple7{
+  color: black;
+  margin-left: 650px;
+  margin-bottom: 110px;
+  bottom: -95px;
+  position: absolute;
+}
+.apple8{
+  color: black;
+  margin-left: 550px;
+}
+.apple9{
+  color: black;
+  margin-left: 650px;
+  margin-bottom: 130px;
+  top: 740px;
+  bottom: -135px;
+  position: absolute;
+}
+.apple10{
+  margin-left: 550px;
+}
+.apple11{
+  color: blue;
+  margin-left: 550px;
+}
